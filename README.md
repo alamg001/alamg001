@@ -38,17 +38,21 @@ Here are some ideas to get you started:
   Mi trabajo se centra en inferencia causal y métodos estadísticos avanzados, abarcando:
   <br><br>
   Causalidad vs. predicción · Marco de Resultados Potenciales · SCM y DAGs  
+  <br><br>
   Diseño experimental · EAC · validez interna y externa · ITT  
+  <br><br>
   Regresión causal · sesgo por variable omitida · soporte común  
+  <br><br>
   Variables instrumentales · MC2E · LATE · restricción de exclusión  
+  <br><br>
   Puntuación de propensión · emparejamiento · IPTW · doble robustez  
+  <br><br>
   ML Causal · AIPW · Double ML · causal discovery  
+  <br><br>
   Cuasi-experimentos · Diferencia en Diferencias · efectos fijos  
+  <br><br>
   Do-calculus · d-separación · aprendizaje causal con deep learning  
-
  <br><br>
-  
-<br><br>
  contacto: <strong>alamg001_001@gmail.com</strong>
 </p>
 
