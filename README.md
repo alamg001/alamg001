@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ![Antonio Lam Garcia](https://github.com/alamg001/alamg001-CicloII.github.io/blob/main/COSTA_VERDE_EL_FARO_v3.png?raw=true)
-<h1 align="center">Hi I'm Antonio / unsimpleDev ✨ </h1>
+<h1 align="center">Hi I'm Antonio / alamg001 ✨ </h1>
 
 <p align="left">
+
+  <a href="https://youtube.com/shorts/0KMJe81ZoaA" target="_blank"><img align="center"  src="https://img.shields.io/badge/@AntonioLam--k3f-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@AntonioLam-k3f" /></a>
   <a href="https://www.youtube.com/@unsimpledev" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
   <a href="https://www.tiktok.com/@unsimpledev" target="_blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
   <a href="https://www.linkedin.com/in/unsimpledev" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
@@ -31,7 +33,7 @@ Here are some ideas to get you started:
 <h2>Sobre mi 🧐</h2>
 
 <p align="left">
-  🖥 INGENIERO EN INFORMÁTICA
+  🖥 ESTADISTICO
   <br><br>
   🚀 PEQUEÑÍSISIMO CREADOR DE CONTENIDO que intenta transmitir sus conocimientos 📚 a través de las redes en base a mucho estudio 🌞 y experiencia
   <br><br>
