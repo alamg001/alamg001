@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <!---------------------------->
 <div id="proyectos">
-<h2>Algunos proyectos 🦾</h2>
+<h2> Miselania  </h2>
 
 <table>
 <tr>
