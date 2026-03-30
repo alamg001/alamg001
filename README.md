@@ -91,51 +91,18 @@ Here are some ideas to get you started:
 
 <td width="25%" align="center">
   <p align="center">
-    <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-      <img align="center" width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp" alt="VIDEO" />
+    <a href="https://www.youtube.com/watch?v=wcmLlKtvJqA&t=1596s" title="Go to Source">
+      <img align="center" width="100%" src="https://github.com/alamg001/alamg001-CicloII.github.io/blob/main/judea_pearl.png?raw=true" alt="VIDEO" />
     </a>
   </p>
   <p align="center">
-    <a href="https://youtu.be/rISmdhlhOPM" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
-    <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    <a href="https://www.youtube.com/watch?v=wcmLlKtvJqA&t=1596s" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
+    <a href="AQUÍ_EL_NUEVO_REPO" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
   </p>
 </td>
 
-<td width="25%" align="center">
-  <p align="center">
-    <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-      <img align="center" width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp" alt="VIDEO" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://youtu.be/fiUkA2OZQjs" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
-    <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-  </p>
-</td>
 
-<td width="25%" align="center">
-  <p align="center">
-    <a href="https://youtu.be/py3lYlKu4Es" title="Go to Source">
-      <img align="center" width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp" alt="VIDEO" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://youtu.be/py3lYlKu4Es" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
-    <a href="https://github.com/unsimpledev/MiChatGPT" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-  </p>
-</td>
 
-<td width="25%" align="center">
-  <p align="center">
-    <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
-      <img align="center" width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp" alt="VIDEO" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://youtu.be/FbQtooM3UIs" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
-    <a href="https://github.com/unsimpledev/MiTraductor" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-  </p>
-</td>
 
 </tr>
 </table>
