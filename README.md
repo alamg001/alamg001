@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 
-  <a href="https://youtube.com/shorts/0KMJe81ZoaA" target="_blank"><img align="center"  src="https://img.shields.io/badge/@AntonioLam--k3f-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@AntonioLam-k3f" /></a>
+  <a href="https://www.youtube.com/shorts/@AntonioLam-k3f" target="_blank"><img align="center"  src="https://img.shields.io/badge/@AntonioLam--k3f-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@AntonioLam-k3f" /></a>
   <a href="https://www.youtube.com/@unsimpledev" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
   <a href="https://www.tiktok.com/@unsimpledev" target="_blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
   <a href="https://www.linkedin.com/in/unsimpledev" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
