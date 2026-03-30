@@ -82,7 +82,7 @@ Here are some ideas to get you started:
       <img 
         align="center" 
         width="50%" 
-        height="80px" 
+        height="100px" 
         style="object-fit: cover; border-radius: 8px;" 
         src="https://github.com/alamg001/alamg001-CicloII.github.io/blob/main/curso%20drones.png?raw=true" 
         alt="VIDEO" 
