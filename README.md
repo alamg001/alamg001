@@ -79,6 +79,37 @@ Here are some ideas to get you started:
 <td width="25%" align="center">
   <p align="center">
     <a href="https://www.youtube.com/watch?v=0KMJe81ZoaA&list=LL&index=1" title="Go to Source">
+      <img 
+        align="center" 
+        width="50%" 
+        height="80px" 
+        style="object-fit: cover; border-radius: 8px;" 
+        src="https://github.com/alamg001/alamg001-CicloII.github.io/blob/main/curso%20drones.png?raw=true" 
+        alt="VIDEO" 
+      />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://www.youtube.com/watch?v=0KMJe81ZoaA&list=LL&index=1" target="_blank">
+      <img 
+        align="center" 
+        src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
+        alt="YouTube" 
+      />
+    </a>
+    <a href="URL_REPOSITORIO_GITHUB" target="_blank">
+      <img 
+        align="center" 
+        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
+        alt="GitHub" 
+      />
+    </a>
+  </p>
+</td>
+
+<td width="25%" align="center">
+  <p align="center">
+    <a href="https://www.youtube.com/watch?v=0KMJe81ZoaA&list=LL&index=1" title="Go to Source">
       <img align="center" width="100%" src="https://github.com/alamg001/alamg001-CicloII.github.io/blob/main/curso%20drones.png?raw=true" alt="VIDEO" />
     </a>
   </p>
