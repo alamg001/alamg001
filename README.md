@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Antonio Lam Garcia](https://github.com/alamg001/alamg001-CicloII.github.io/blob/main/COSTA_VERDE_EL_FARO_v3.png?raw=true)
 <h1 align="center">Hola 👋 soy Orlando / unsimpleDev ✨ </h1>
 
 <p align="left">
