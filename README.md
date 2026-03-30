@@ -81,8 +81,8 @@ Here are some ideas to get you started:
     <a href="https://www.youtube.com/watch?v=0KMJe81ZoaA&list=LL&index=1" title="Go to Source">
       <img 
         align="center" 
-        width="60%" 
-        height="200px" 
+        width="50%" 
+        height="250px" 
         style="object-fit: cover; border-radius: 8px;" 
         src="https://github.com/alamg001/alamg001-CicloII.github.io/blob/main/curso%20drones.png?raw=true" 
         alt="VIDEO" 
@@ -107,6 +107,7 @@ Here are some ideas to get you started:
   </p>
 </td>
 
+<!--
 <td width="25%" align="center">
   <p align="center">
     <a href="https://www.youtube.com/watch?v=0KMJe81ZoaA&list=LL&index=1" title="Go to Source">
@@ -118,7 +119,7 @@ Here are some ideas to get you started:
     <a href="AQUÍ_EL_NUEVO_REPO" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
   </p>
 </td>
-
+-->
 
 <td width="25%" align="center">
   <p align="center">
