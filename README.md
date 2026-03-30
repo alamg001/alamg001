@@ -33,15 +33,23 @@ Here are some ideas to get you started:
 <h2>Sobre mi 🧐</h2>
 
 <p align="left">
-  🖥 ESTADISTICO
+  Investigador en Ciencias e Ingeniería Estadística, especializado en el desarrollo de investigaciones científicas y sus aplicaciones en otras áreas del conocimiento y la tecnología.
   <br><br>
-  🚀 PEQUEÑÍSISIMO CREADOR DE CONTENIDO que intenta transmitir sus conocimientos 📚 a través de las redes en base a mucho estudio 🌞 y experiencia
+  Mi trabajo se centra en inferencia causal y métodos estadísticos avanzados, abarcando:
   <br><br>
-  📅 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no desechavar mi edad 🎂)
-  <br><br>
-  ◼ roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe 🤷
-  <br><br>
-  📧 Contacto: <strong>unsimpledev@gmail.com</strong>
+  Causalidad vs. predicción · Marco de Resultados Potenciales · SCM y DAGs  
+  Diseño experimental · EAC · validez interna y externa · ITT  
+  Regresión causal · sesgo por variable omitida · soporte común  
+  Variables instrumentales · MC2E · LATE · restricción de exclusión  
+  Puntuación de propensión · emparejamiento · IPTW · doble robustez  
+  ML Causal · AIPW · Double ML · causal discovery  
+  Cuasi-experimentos · Diferencia en Diferencias · efectos fijos  
+  Do-calculus · d-separación · aprendizaje causal con deep learning  
+
+ <br><br>
+  
+<br><br>
+ contacto: <strong>alamg001_001@gmail.com</strong>
 </p>
 
 <br>
