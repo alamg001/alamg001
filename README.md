@@ -71,6 +71,37 @@ Here are some ideas to get you started:
 
 <br>
 
+<!--------------------------->
+
+<br>
+
+<h2>About me 🧐</h2>
+<p align="left">
+Researcher in Statistical Science and Engineering, specializing in the development of scientific research and its applications in other areas of knowledge and technology.
+<br><br>
+My work focuses on causal inference and advanced statistical methods, encompassing:
+<br><br>
+Causality vs. Prediction · Potential Outcomes Framework · SCM and DAGs
+<br><br>
+Experimental Design · EAC · Internal and External Validity · ITT
+<br><br>
+Causal Regression · Omitted Variable Bias · Common Support
+<br><br>
+Instrumental Variables · MC2E · LATE · Exclusion Constraint
+<br><br>
+Propensity Score · Matching · IPTW · Double Robustness
+<br><br>
+Causal ML · AIPW · Double ML · Causal Discovery
+<br><br>
+Quasi-experiments · Difference-in-Differences · Fixed Effects
+<br><br>
+Do-calculus · d-Separation · Causal Learning with Deep Learning
+<br><br>
+Contact: <strong>alamg001_001@gmail.com</strong>
+</p>
+<br>
+
+
 <!---------------------------->
 <div id="proyectos">
 <h2> Miselania  </h2>
