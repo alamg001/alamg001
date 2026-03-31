@@ -32,9 +32,12 @@ Here are some ideas to get you started:
 </p>
 
 <br>
-
+<!--
 <h2>Sobre mi 🧐</h2>
+-->
 
+
+<!--
 <p align="left">
   Investigador en Ciencias e Ingeniería Estadística, especializado en el desarrollo de investigaciones científicas y sus aplicaciones en otras áreas del conocimiento y la tecnología.
   <br><br>
@@ -61,6 +64,7 @@ Here are some ideas to get you started:
 
 <br>
 
+
 <h2>Tecnologías conocidas 🛠</h2>
 
 <p align="left">
@@ -68,8 +72,10 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=py,pytorch,r,julia,anaconda,arduino,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,linkedin,ps&perline=12" />
   </a>
 </p>
+-->
 
 <br>
+
 
 <!--------------------------->
 
@@ -101,10 +107,20 @@ Contact: <strong>alamg001_001@gmail.com</strong>
 </p>
 <br>
 
+<h2>Known Technologies 🛠</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,r,julia,anaconda,arduino,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,linkedin,ps&perline=12" />
+  </a>
+</p>
+
+
+
+
 
 <!---------------------------->
 <div id="proyectos">
-<h2> Miselania  </h2>
+<h2> Miscellaneous  </h2>
 
 <table>
 <tr>
