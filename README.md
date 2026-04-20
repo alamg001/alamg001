@@ -186,6 +186,23 @@ Contact: <strong>alamg001_001@gmail.com</strong>
 
 
 
+<td width="25%" align="center">
+  <p align="center">
+    <a href="https://gv-vod-cdn.aliexpress-media.com/80ffc57ef0293a3a/ae_sg_item/fwe6wu1zfx6EtXfVtoc_1100080967193_mp4_265_hd.mp4?auth_key=1776658872-0-0-75d3969a7cbeb07efe93361ae5ae22c1" title="Go to Source">
+      <img align="center" width="100%" src="https://github.com/alamg001/alamg001-CicloII.github.io/blob/main/judea_pearl.png?raw=true" alt="VIDEO" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://www.youtube.com/watch?v=wcmLlKtvJqA&t=1596s" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
+    <a href="AQUÍ_EL_NUEVO_REPO" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+  </p>
+</td>
+
+
+
+
+
+
 </tr>
 </table>
 </div>
